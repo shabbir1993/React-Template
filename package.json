@@ -1,0 +1,20 @@
+{
+  "name": "React-Template",
+  "version": "1.0.0",
+  "description": "A zero configuration react Template to get started with React Projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shabbir1993/React-Template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shabbir1993/React-Template/issues"
+  },
+  "homepage": "https://github.com/shabbir1993/React-Template#readme"
+}
